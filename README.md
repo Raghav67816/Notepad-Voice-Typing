@@ -2,7 +2,7 @@
 
 This is a simple project made using Python.
 
-This help in typing through voice in Notepad using PywinAuto and SpeechRecognition module.
+This helps in typing through voice in Notepad using PywinAuto and SpeechRecognition module.
 
 # Package Requirements
 pip install pywinauto
