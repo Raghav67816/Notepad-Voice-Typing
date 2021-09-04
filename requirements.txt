@@ -1,0 +1,6 @@
+comtypes==1.1.10
+PyAudio @ PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+pywin32==301
+pywinauto==0.6.8
+six==1.16.0
+SpeechRecognition==3.8.1
