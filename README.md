@@ -18,4 +18,6 @@ Python 3.x
 
 If error occurs while installing PyAudio using the above command try:
 
-pip install <PyAudioFilepath>
+pip install "PyAudioFilepath"
+
+For more binaries visit https://www.lfd.uci.edu/~gohlke/pythonlibs/
